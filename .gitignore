@@ -1,2 +1,9 @@
 # Project exclude paths
 /out/
+*.iml
+.idea
+target/
+.bloop
+.bsp
+.metals
+.vscode
